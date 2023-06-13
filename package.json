@@ -1,0 +1,22 @@
+{
+  "name": "@charlespalmerbf/html-to-gfm",
+  "version": "1.0.0",
+  "description": "The code provided is a custom JavaScript function called convertHtmlToMarkdown that converts HTML content into GitHub Flavored Markdown (GFM) format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlespalmerbf/html-to-gfm-npm-package.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "charlespalmerbf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlespalmerbf/html-to-gfm-npm-package/issues"
+  },
+  "homepage": "https://github.com/charlespalmerbf/html-to-gfm-npm-package#readme"
+}
