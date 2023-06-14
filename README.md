@@ -1,3 +1,5 @@
+![alt text](https://img.shields.io/npm/dw/@charlespalmerbf/html-to-gfm?style=for-the-badge)
+
 # @charlespalmerbf/html-to-gfm
 
 The code provided is a custom JavaScript function called convertHtmlToMarkdown that converts HTML content into GitHub Flavored Markdown (GFM) format. Here's a breakdown of what each part of the code does:
